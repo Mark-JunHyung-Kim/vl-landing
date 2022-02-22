@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+
+.firstpage {
+    /* background-color: transparent; */
+    transition: all, 1s;
+    background-color: rgba(255, 255, 255, 1.0);
+    color: rgba(237, 137, 54, 1.0);
+    /* box-shadow: 0 0 20px rgba(0, 0, 0, 0.6); */
+    text-transform: uppercase;
+}
+
+.overscroll {
+    transition: all, 1s;
+    color: rgba(255, 255, 255, 1.0);
+    /* background-color: rgb(78, 23, 23, 1.0); */
+    background-color: rgba(255, 172, 152);
+    box-shadow: 0 0 20px rgba(216, 68, 0, 0.4);
+    text-transform: uppercase;
+}
+
+.totopfirstpage {
+    visibility: hidden;
+    opacity: 0;
+    transition: all 1s;
+}
+
+.totopscroll {
+    opacity: 1;
+    transition: all 1s;
+}
+
+.slick-list {
+    width: 60vw;
+    height: 70vh;
+    margin: 0;
+    padding: 0;
+    /* background-color: #f0f9ff; */
+}
+
+.slick-prev {
+    left: -40px;
+    transition: all 1s;
+}
+
+.slick-prev:before, .slick-next:before {
+    font-size: 40px;
+    line-height: 1;
+    opacity: .5;
+    color: #ff8243;
+    -webkit-font-smoothing: antialiased;
+    transition: all 1s;
+}
