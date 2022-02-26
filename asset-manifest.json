@@ -1,10 +1,20 @@
 {
   "files": {
-    "main.css": "/vl-landing/static/css/main.6230006d.css",
-    "main.js": "/vl-landing/static/js/main.4da525f7.js",
+    "main.css": "/vl-landing/static/css/main.16240773.css",
+    "main.js": "/vl-landing/static/js/main.3990c0cc.js",
     "static/js/787.fa53f6ee.chunk.js": "/vl-landing/static/js/787.fa53f6ee.chunk.js",
-    "static/media/forum.png": "/vl-landing/static/media/forum.e9180901c35bfe3d2b33.e9180901c35bfe3d2b33.png",
-    "static/media/test1.png": "/vl-landing/static/media/test1.bb59b27a012bf78aa61c.png",
+    "static/media/rent.png": "/vl-landing/static/media/rent.aa6c30174531ae0484c7.png",
+    "static/media/info.png": "/vl-landing/static/media/info.98cb624b2e9bc51742ba.png",
+    "static/media/event.png": "/vl-landing/static/media/event.b0fe37696870b2eb0d86.png",
+    "static/media/group.png": "/vl-landing/static/media/group.00f0af1ee836623fb9a2.png",
+    "static/media/review.png": "/vl-landing/static/media/review.f0f850ab8f07c404ae68.png",
+    "static/media/market.png": "/vl-landing/static/media/market.11558009a101414f48ba.png",
+    "static/media/job.png": "/vl-landing/static/media/job.5592699b8e16e3217518.png",
+    "static/media/insta.png": "/vl-landing/static/media/insta.6819c05147f558d78f97.png",
+    "static/media/forum.png": "/vl-landing/static/media/forum.3fe4b322ea54dd1a9676.png",
+    "static/media/home.png": "/vl-landing/static/media/home.c5a4a9e95a7e8b46812f.png",
+    "static/media/icon_playstore.png": "/vl-landing/static/media/icon_playstore.6ff3e43d45f57e5e35f0.png",
+    "static/media/icon_appstore1.png": "/vl-landing/static/media/icon_appstore1.1f1c84a53949518c8e1a.png",
     "static/media/Logo.png": "/vl-landing/static/media/Logo.0f8bf7096f29cf4e9a7a.png",
     "static/media/app-store-qr-code.png": "/vl-landing/static/media/app-store-qr-code.25c2d1a373744875f524.png",
     "static/media/slick.svg": "/vl-landing/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -12,12 +22,12 @@
     "static/media/slick.ttf": "/vl-landing/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/vl-landing/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/vl-landing/index.html",
-    "main.6230006d.css.map": "/vl-landing/static/css/main.6230006d.css.map",
-    "main.4da525f7.js.map": "/vl-landing/static/js/main.4da525f7.js.map",
+    "main.16240773.css.map": "/vl-landing/static/css/main.16240773.css.map",
+    "main.3990c0cc.js.map": "/vl-landing/static/js/main.3990c0cc.js.map",
     "787.fa53f6ee.chunk.js.map": "/vl-landing/static/js/787.fa53f6ee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6230006d.css",
-    "static/js/main.4da525f7.js"
+    "static/css/main.16240773.css",
+    "static/js/main.3990c0cc.js"
   ]
 }
